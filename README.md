@@ -14,7 +14,7 @@ Add a repository for each WPML plugin you want to use (under repositories in com
                   "url": "https://httpbin.org/status/400?"
                 },
                 "require": {
-                  "enelogic/wpml-installer": "^0.1",
+                  "dwillitzer/wpml-installer": "^0.1",
                   "composer/installers": "^1.0"
                 }
             }
@@ -65,7 +65,7 @@ You should be all set - rinse and repeat for other WPML plugins - a fuller confi
                   "url": "https://httpbin.org/status/400?"
                 },
                 "require": {
-                  "enelogic/wpml-installer": "^0.1",
+                  "dwillitzer/wpml-installer": "^0.1",
                   "composer/installers": "^1.0"
                 }
             }
@@ -82,7 +82,7 @@ You should be all set - rinse and repeat for other WPML plugins - a fuller confi
                   "url": "https://httpbin.org/status/400?"
                 },
                 "require": {
-                  "enelogic/wpml-installer": "^0.1",
+                  "dwillitzer/wpml-installer": "^0.1",
                   "composer/installers": "^1.0"
                 }
             }
@@ -99,7 +99,7 @@ You should be all set - rinse and repeat for other WPML plugins - a fuller confi
                   "url": "https://httpbin.org/status/400?"
                 },
                 "require": {
-                  "enelogic/wpml-installer": "^0.1",
+                  "dwillitzer/wpml-installer": "^0.1",
                   "composer/installers": "^1.0"
                 }
             }
@@ -116,7 +116,7 @@ You should be all set - rinse and repeat for other WPML plugins - a fuller confi
                   "url": "https://httpbin.org/status/400?"
                 },
                 "require": {
-                  "enelogic/wpml-installer": "^0.1",
+                  "dwillitzer/wpml-installer": "^0.1",
                   "composer/installers": "^1.0"
                 }
             }
@@ -133,7 +133,7 @@ You should be all set - rinse and repeat for other WPML plugins - a fuller confi
                   "url": "https://httpbin.org/status/400?"
                 },
                 "require": {
-                  "enelogic/wpml-installer": "^0.1",
+                  "dwillitzer/wpml-installer": "^0.1",
                   "composer/installers": "^1.0"
                 }
             }
@@ -150,7 +150,7 @@ You should be all set - rinse and repeat for other WPML plugins - a fuller confi
                   "url": "https://httpbin.org/status/400?"
                 },
                 "require": {
-                  "enelogic/wpml-installer": "^0.1",
+                  "dwillitzer/wpml-installer": "^0.1",
                   "composer/installers": "^1.0"
                 }
             }
