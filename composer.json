@@ -1,9 +1,13 @@
 {
-  "name": "enelogic/wpml-installer",
+  "name": "dwillitzer/wpml-installer",
   "description": "An install helper for Wordpress Multilingual (WPML), based of Philipp Baschke it's plugin to install ACFPro",
   "type": "composer-plugin",
   "license": "MIT",
   "authors": [
+    {
+      "name": "Daniel Willitzer",
+      "email": "Daniel Willitzer"
+    },
     {
       "name": "Wesley Coppens",
       "email": "wesley@enelogic.com"
